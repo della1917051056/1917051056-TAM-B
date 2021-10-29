@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleNotif</string>
+    <string name="content_title">Notification for Della</string>
+    <string name="content_text">Semangat Kuliahnya Della!!</string>
+    <string name="subtext"> Notifikasi</string>
+    <string name="send_notif">Send Notif</string>
+</resources>
